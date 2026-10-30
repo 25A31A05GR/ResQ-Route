@@ -64,3 +64,19 @@ Applications
 - Hospital accessibility simulation
 - Shortest-path problem demonstration
 - Data structures and algorithm analysis learning
+
+- Algorithm Complexity Analysis
+
+Algorithm / Data Structure        | Time Complexity
+Dijkstra's Algorithm (Binary Heap)| O((V + E) log V)
+A* Search                         | Depends on heuristic and graph
+AVL Tree Search                   | O(log N)
+Priority Queue Insertion          | O(log N)
+
+Complexity Parameters
+
+- V = Number of vertices
+- E = Number of edges
+- N = Number of elements in the AVL Tree
+
+Note: These are standard theoretical complexities for the specified implementations. Actual performance depends on the implementation and input graph. 
