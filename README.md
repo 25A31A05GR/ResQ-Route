@@ -49,3 +49,18 @@ To demonstrate how data structures and algorithms can support emergency vehicle 
 Disclaimer
 
 This is an academic simulation project. It does not provide real-time GPS navigation, live traffic information, or actual emergency dispatch services.
+Project Objectives
+
+- To apply advanced data structures in emergency route planning.
+- To find optimized paths using Dijkstra's and A* algorithms.
+- To use AVL Trees for efficient hospital searching.
+- To demonstrate priority-based emergency handling using Priority Queues.
+- To understand and compare algorithm performance.
+- To simulate traffic conditions and road blockages in a city network.
+
+Applications
+
+- Emergency vehicle route planning
+- Hospital accessibility simulation
+- Shortest-path problem demonstration
+- Data structures and algorithm analysis learning
